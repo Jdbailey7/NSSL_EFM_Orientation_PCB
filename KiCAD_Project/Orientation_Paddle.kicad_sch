@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Orientation Paddle")
-		(date "2025-06-03")
-		(rev "2.0.0")
+		(date "2025-07-03")
+		(rev "2.1.0")
 		(company "Leeman Geophysical LLC")
 		(comment 1 "(479) 373-3736")
 		(comment 2 "Gentry AR, 72734")
@@ -6784,7 +6784,61 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/4J+"
 			"gv+CfoL/gn6C/4J+ggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/4J+gv+CfoL/gn6C/4J+ggAAAAAA"
-			"AAAAAAAAAA=="
+			"AAAAAAAAAP//////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"////////////////////////////////////////////////////////////////////////////"
+			"/////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAGRlcmVkQnl0ZUFkZHJlc3NCdWZmZXJSYXN0ZXJpemVyT3JkZXJlZFZpZXdzTWluTk9T"
+			"UHVzaENvbnN0YW50U2l6ZWlubGluZVByb2dyYW1TY29wZU9mZnNldHNzaGFkZXJEYXRhbnVtUmVw"
+			"bGljYXNVUkJJbmZvaGFzNjRCVmVydGV4SGVhZGVySW5wdXRoYXM2NEJWZXJ0ZXhIZWFkZXJPdXRw"
+			"dXRoYXNWZXJ0ZXhIZWFkZXJVc2VCaW5kbGVzc0ltYWdlZW5hYmxlUmFuZ2VSZWR1Y2VkaXNhYmxl"
+			"TmV3VHJpZ0Z1bmNSYW5nZVJlZHVjdGlvbmVuYWJsZUZSZW1Ub1NSZW1PcHRlbmFibGVTYW1wbGVw"
+			"dHJUb0xkbXNwdHJTYW1wbGUwV2FGb3JjZVNJTUQzMk1pY3JvcG9seVJhc3Rlcml6ZVdhRW5hYmxl"
+			"RmFzdGVzdEZvckFsbFdhdmVJbnRyaW5zaWNzQ1NXYUVuYWJsZUZhc3Rlc3RGb3JBbGxXYXZlSW50"
+			"cmluc2ljc1BTYWxsb3dNYXRjaE1hZE9wdGltaXphdGlvbmZvclZTZGlzYWJsZU1hdGNoTWFkT3B0"
+			"aW1pemF0aW9uRm9yQ1NkaXNhYmxlTWVtT3B0Zm9yTmVnYXRpdmVPZmZzZXRMb2Fkc2VuYWJsZVRo"
+			"cmVlV2F5TG9hZFNwaWx0T3B0c3RhdGVmdWxSZXNvdXJjZXNOb3RBbGlhc2VkZGlzYWJsZU1peE1v"
+			"ZGVnZW5lcmljQWNjZXNzZXNSZXNvbHZlZGRpc2FibGVTZXBhcmF0ZVNwaWxsUHZ0U2NyYXRjaFNw"
+			"YWNlZGlzYWJsZVNlcGFyYXRlU2NyYXRjaFdBUHJpdmF0ZU1lbW9yeVBlckZHbV9PcHRzVG9EaXNh"
+			"YmxlY2FwYWJpbGl0aWVzZ2xvYmFsVmFyaWFibGVEZWNvcmF0aW9uc0lOVEVMbV9TaGFkZXJSZXNv"
+			"dXJjZVZpZXdNY3NNYXNrbV9TaGFkZXJSZXNvdXJjZVZpZXdNY3NNYXNrVmVjWzBdbV9TaGFkZXJS"
+			"ZXNvdXJjZVZpZXdNY3NNYXNrVmVjWzFdY29tcHV0ZWREZXB0aE1vZGVpc0hEQ0Zhc3RDbGVhclNo"
+			"YWRlcmYyBAAAAAAAMIIAFSMIQDWCAFgjCNc2gnBxIwjANYIAYCMIadCNIKiBN4LQaCMIQDaDEOTK"
+			"DEGuzBDoygyDQC7lMoMwLuYyg4Ar5zKDQOzKDIKxKzMIx67MICC7MoOQ7MoMgsIrMwjLrswgMLwy"
+			"g9DkygyC0yszCI+vzCBAvjKDEOXKDIKUKzMI067MIFC7MoNQ7coMgrUrMwjXrswgYLwyg5DtygyC"
+			"tiszCBuvzA=="
 		)
 	)
 	(global_label "UART3_TX"
@@ -9784,7 +9838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "3-0000267"
+		(property "Internal Part Number" "3-0000273"
 			(at 164.465 168.91 0)
 			(effects
 				(font

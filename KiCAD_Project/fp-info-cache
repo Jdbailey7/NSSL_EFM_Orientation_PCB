@@ -1,4 +1,4 @@
-26570168215127461
+26575427274087624
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103929,6 +103929,13 @@ mosfets
 3
 3
 mosfets
+1-0001412
+
+SOT TO_SOT_SMD
+0
+3
+3
+mosfets
 1-0001465
 8-SOIC
 8-SOIC
@@ -104306,6 +104313,13 @@ SC-74A TO_SOT_SMD
 0
 5
 5
+others
+1-0000464
+Custom Footprint
+Custom Footprint
+0
+18
+18
 others
 1-0000605
 18-SMD Module
@@ -106714,6 +106728,13 @@ sensors
 0
 10
 10
+sensors
+1-0001759
+SOIC, 8 Pin 
+SOIC SO
+0
+8
+8
 switch_mux_demux
 1-0000059
 1 Circuit IC Switch 2:1 2.4Ohm 8-MSOP
