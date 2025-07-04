@@ -5,16 +5,16 @@
       "Application": "Pcbnew",
       "Version": "9.0.1"
     },
-    "CreationDate": "2025-06-03T12:38:30-05:00"
+    "CreationDate": "2025-07-04T09:36:57-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Orientation_Paddle",
       "GUID": "4f726965-6e74-4617-9469-6f6e5f506164",
-      "Revision": "2.0"
+      "Revision": "2.1"
     },
     "Size": {
-      "X": 110.59,
+      "X": 158.85,
       "Y": 47.09
     },
     "LayerNumber": 2,
